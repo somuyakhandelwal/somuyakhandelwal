@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somuyakhandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="somuyakhandelwal" /> </p>
 
 
-- 🔭 I’m currently working on [MELD](**https://somuyakhandelwal.github.io/CA-3-FEWD/**)
+- 🔭 I’m currently working on [MELD](https://somuyakhandelwal.github.io/CA-3-FEWD/)
 
 - 🌱 I’m currently learning **Backend using node and mongo db**
 
